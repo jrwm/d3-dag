@@ -51,7 +51,7 @@
     "@types/d3-array": "^2.0.0",
     "d3-array": "^2.7.1",
     "fastpriorityqueue": "^0.6.3",
-    "javascript-lp-solver": "0.4.24",
+    "javascript-lp-solver": "0.4.17",
     "quadprog": "^1.6.1",
     "quadprog-js": "^0.1.3"
   },
